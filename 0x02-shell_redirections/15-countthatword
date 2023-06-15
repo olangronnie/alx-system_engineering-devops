@@ -1,0 +1,2 @@
+#!/bin/bash
+grerpc -c -i "bin" /etc/passwd
